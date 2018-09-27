@@ -5,7 +5,7 @@
 #!/usr/bin/python
 
 string = raw_input("enter the string here")  # Takes the string as input
-ckey1= int(input("enter the value of key1=")) # takes the valus of key1
+key1= int(input("enter the value of key1=")) # takes the valus of key1
 key2= int(input("enter the value of key2=")) # takes the valus of key2
 key3= int(input("enter the value of key3=")) # takes the valus of key3
 length= len(string) # it tarcks the length of the string
